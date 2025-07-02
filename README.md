@@ -1,4 +1,4 @@
-### This is our thesis "Comparison of Hyperparameter Optimization Techniques Using EPSS Scores and Related Datasets".
+### This is our thesis "Comparison of Hyperparameter Optimization Techniques Using EPSS Scores and Public Datasets".
 
 We tested everything on Google Colab, but to make it compatible with VSCode we made some changes in the "installing packages" section, but also defining filepath section. Beware that when running, make sure that the filepaths for the datasets are always in the correct place.
 
